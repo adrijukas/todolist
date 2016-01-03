@@ -1,0 +1,5 @@
+/* Style done items - text in red and an item crossed out */
+.done-true {
+  color: red;
+  text-decoration: line-through;
+}

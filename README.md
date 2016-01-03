@@ -1,0 +1,1 @@
+An app that allows to create a todo list, adding new and removing completed items
